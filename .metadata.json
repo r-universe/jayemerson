@@ -1,5 +1,9 @@
 [
   {
+    "package": "gpairs",
+    "oncran": true
+  },
+  {
     "package": "STV",
     "oncran": true
   }

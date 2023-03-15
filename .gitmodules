@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gpairs"]
+	path = gpairs
+	url = https://github.com/jayemerson/gpairs
+	shallow = true
+	registered = true
 [submodule "STV"]
 	path = STV
 	url = https://github.com/jayemerson/stv
