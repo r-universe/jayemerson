@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "barcode"]
+	path = barcode
+	url = https://github.com/cran/barcode
+	shallow = true
+	registered = true
 [submodule "gpairs"]
 	path = gpairs
 	url = https://github.com/jayemerson/gpairs
@@ -11,5 +16,10 @@
 [submodule "STV"]
 	path = STV
 	url = https://github.com/jayemerson/stv
+	shallow = true
+	registered = true
+[submodule "YaleToolkit"]
+	path = YaleToolkit
+	url = https://github.com/cran/YaleToolkit
 	shallow = true
 	registered = true
