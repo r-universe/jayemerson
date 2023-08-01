@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "barcode"]
-	path = barcode
-	url = https://github.com/cran/barcode
-[submodule "gpairs"]
-	path = gpairs
-	url = https://github.com/jayemerson/gpairs
 [submodule "STV"]
 	path = STV
 	url = https://github.com/jayemerson/stv
 [submodule "YaleToolkit"]
 	path = YaleToolkit
 	url = https://github.com/cran/YaleToolkit
+[submodule "barcode"]
+	path = barcode
+	url = https://github.com/cran/barcode
+[submodule "gpairs"]
+	path = gpairs
+	url = https://github.com/jayemerson/gpairs
